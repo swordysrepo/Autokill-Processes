@@ -32,6 +32,7 @@ after setting our parameters in the ```constants.py``` file
 
 - find and list all current processes
 - remove the specified processes when they are running
+- notifys when a process fails to end
 
 
 ## **options:**
