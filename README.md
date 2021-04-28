@@ -8,7 +8,7 @@ this utilizes win32 to find and remove processes with python 3.5+
 
 ## required libraries
 - library
-
+- win10toast
 
 
 
