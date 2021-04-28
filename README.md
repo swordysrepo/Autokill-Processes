@@ -21,7 +21,8 @@ in command prompt
 after setting our parameters in the ```constants.py``` file
 
 # **Usage:*
-
+- find the process you want to end using ```autokill_processes.py --list```
+- add this process name to the ```constants.py``` file
 
 
 
