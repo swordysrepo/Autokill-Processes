@@ -23,7 +23,7 @@ after setting our parameters in the ```constants.py``` file
 # **Usage:*
 - find the process you want to end using ```autokill_processes.py --list```
 - add this process name to the ```constants.py``` file
-
+- run cmd/anaconda prompt in administrator mode. (when we recieve an error that says the process cannot be ended , the program is not in admin mode)
 
 
 
@@ -48,3 +48,6 @@ after setting our parameters in the ```constants.py``` file
   - discord notifications with current timestamp of process ended
   - discord notifications of processes running
   - logging all processes running
+  - package format
+  - cmd commands
+  
